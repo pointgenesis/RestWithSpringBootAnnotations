@@ -1,0 +1,69 @@
+{
+	"loanDetails": {
+		"propertyDetails": {
+			"addressLine1": "33 Test",
+			"addressLine2": "",
+			"zipcode": "32068",
+			"city": "Middleburg",
+			"state": "FL",
+			"stateFips": "",
+			"county": "Clay",
+			"countyFips": "",
+			"propertyType": "SFRDetached",
+			"occupancyType": "OwnerOccupied",
+			"numberOfUnits": 1
+		},
+		"loanAmounts": {
+			"baseLoanAmount": 100000,
+			"loanAmount": 100000,
+			"originalSalesPrice": 150000,
+			"appraisedPropertyValue": 175000,
+			"effectivePropertyValue": 0
+		},
+		"loanCalculatedValues": {
+			"loanToValue": 0,
+			"combinedLoanToValue": 0,
+			"homeEquityCombinedLoanToValue": 0,
+			"debtToIncome": 0
+		},
+		"loanTerms": {
+			"amortizationTerm": 120,
+			"amortizationType": "FixedRate",
+			"cashoutAmount": 0,
+			"cashReserveMonths": 0,
+			"documentationType": "FullDocumentation",
+			"fhaCaseNumber": "",
+			"lienPosition": "FirstLien",
+			"loanPurpose": "Purchase",
+			"mortgageType": "Conventional",
+			"qualifyingFico": 111,
+			"tpoLoan": false,
+			"underwritingType": "Manual",
+			"underwritingOption": "Delegated"
+		},
+		"mortgageInsurance": {
+			"financedMIP": 0
+		},
+		"productInformation": {
+			"adjustableRateDetail": {
+				"index": 0,
+				"margin": 0,
+				"positiveLifetimeCap": 0
+			}
+		},
+		"lockInformation": {
+			
+		},
+		"escrowsWaived": {
+			"taxes": false,
+			"harzard": false,
+			"flood": false
+		},
+		"subordinateFinancing": [
+			{
+				"maxLineAmount": 0,
+				"amount": 0
+			}
+		]
+	}
+}
